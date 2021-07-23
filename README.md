@@ -1,1 +1,0 @@
-# SPARK_CLASS1
